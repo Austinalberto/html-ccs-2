@@ -1,0 +1,65 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "Android";
+    src: url(fontes/idroid.otf) format("opentype");
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: rgb(141, 84, 84);
+}
+header {
+    background-image: linear-gradient(to right, red, black);
+    height: 150px;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Android;
+
+}
+header p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    max-width: 1000px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    
+}
+main h1{
+ margin: 0px;
+ 
+    background-image: linear-gradient(to right, red, black);
+}
+main h3 {
+    margin: 3px;
+}
+main p {
+    text-align: justify;
+ text-indent: 10px;
+ font-size: 17px;
+
+ 
+}
+a:visited{
+    color: yellow;
+}
+main a:hover {
+    color: red;
+}
+a {
+    text-decoration: none;
+ font-weight: bold;
+}
+li {
+    
+    margin: auto;
+    list-style-position: inside;
+    list-style-type:"\2714\00A0\00A0";
+}

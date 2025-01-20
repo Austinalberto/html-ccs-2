@@ -1,0 +1,93 @@
+pseodo-classes
+div-é um espaço qualquel
+div>p-diplay-none(testo escondido na div)
+div:hover>p(mostra o testo escondido)
+#-id
+.=clase
+:=pseudoclasse(sao relacionadas a um elemento)-exemplo-div:hover, div:
+
+
+
+
+
+estilo
+display-ilineblok(tudo na mesma linha)
+
+
+
+
+
+
+
+seletores
+id e classe
+
+
+
+pseodolelementos
+::=pseudolelementos  
+visited-linque visitado
+active-link activado
+after-depois dos links(content:"link";)
+befor-antes
+
+text-decoretion(none)
+fonte-wigth
+----------------------
+  list-style-position: inside;-pontinhos para dentro
+list-style-type:-tipo de pontinhos
+ font-weight: bold;-peso da fonte
+
+fontes
+-tamanho de fontes 
+fonte-size- tamonho de fonte(medias absolutas-cm, am, in, px, pt, pc)
+tamonhos relativos-(em, ex, rem, Xr, vh, %)
+
+peso e estilo
+peso
+font-weight- peso da fonte (lighter, normal, bold, bolder)
+variacao numerica(100-900)
+font-styler-estilo da fonte
+estilo
+text-decoration
+
+
+shorthand font
+(font-styler,font-weight, font-size, font-famely)
+
+fontes externas
+@fonte-face(fonte fameliy      src:URl,outra URl...) formart (opentype(otf), truetype(ttf), enbededopentype, truetype-aa, svg para fontes.
+
+
+capiturando fontes em outros sites
+baixar a extensao-fonte ninja
+
+indentificar fontes dentro de imagens
+
+--fonte finder
+---font esquirel
+---my font
+
+alinhamento de texto
+text-align-center, right, left, justify
+text-indent- inicio do paragrafo um pouco para dentro
+
+modelo de caixas
+height-altura
+width-largura
+--------
+
+border-linha que circunda o conteudo
+padding-espaço entre o border e o conteudo
+margin-espaço externo
+outline-contorno, fora do elemente
+
+tipo de caixa
+box-level- inicia numa linha nova e ocupara alargura interira do navegador(div, h1, P, main; header, nav, article, aside. footer, form, video)
+inline-level- nao pula linha!!(span, a, code, small, strong, em, sup, label, button, input, selet)
+
+
+
+
+
+

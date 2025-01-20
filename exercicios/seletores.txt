@@ -1,0 +1,47 @@
+id=identificador so para uma identificacao unica(#)
+
+class= para varios identificadores (.)
+
+
+
+
+largura= (width
+background-linear(mais de uma cor)
+border-radius: 10px- bordas
+box-shadow-caixa(tres parametros-lado, para baixo, quanto vai espalhar-se, transparecia
+
+
+Pseudo-classes
+: sao pseudo-classe
+sao relacionado a um classe ou elemnto
+
+hover=configuracao de estado
+div:hover = configuracao de estado
+div > P {display:none) = paragrafo escondido
+psiodo-classe
+#id
+.class
+::pseudo-elementos 
+
+> = childrem
+
+
+
+Modelo de caixa
+ caixa é toda informação que aparece numa tela.
+as caixas tem uma medida:
+altura=height
+largura=width
+linha=border-é uma linha que fica grudada no pontilhado no seu pontinhado
+padding= espaçamento entre a borda e o conteudo(espaço interno)
+espaço esterno=margin
+outline= traça fora do elemento
+
+tipos de caixa
+box-level  
+-inicia uma linha nova
+-a largura é 100%
+
+
+inline-level
+-

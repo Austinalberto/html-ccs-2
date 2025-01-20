@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+
+@font-face{
+    font-family: "Android";
+    src: url(fontes/idroid.otf);
+}
+@font-face {
+    font-family: "bebas";
+    src: url(fontes/BebasNeue-Regular.ttf);
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+   background-image: linear-gradient(to top , black, rgb(180, 12, 12)  );
+    min-height: 150px;
+    padding-top: 60px;
+}
+header h1{
+    color: rgba(250, 5, 5, 0.541);
+    text-align: center;
+    font-family: Android,sans-serif;
+}
+header p {
+    color: white;
+    text-align: center;
+    font-family: bebas ;
+}
+nav  {
+   background-color: black;
+   padding-bottom: 10px ;
+}
+   
+nav > a {
+   
+    color: rgba(250, 5, 5, 0.541) ;
+   border-radius: 10px  ;
+
+padding-right: 40px;    
+    text-decoration: none;
+    font-weight: bold;
+  
+}
+
+nav a:hover {
+    background-color: green;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+    padding-top: 4px;
+  
+    padding-bottom: 4px;
+    
+    
+}
+main {
+    background-color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    margin: auto;
+    max-width: 1000px;
+    min-width: 300px;
+    padding: 10px;
+   
+}
+main p{
+    text-indent: 30px;
+    text-align: justify;
+    font-size:20px;
+    font-family: bebas, sans-serif;
+    
+    
+}
+main h2 {
+    background-image: linear-gradient(to right, black, red);
+    color: white;
+    margin: 10px;
+}
+main h3 {
+    text-align: center;
+    font-family: bebas;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(141, 84, 84);
+}
+
+footer {
+    background-color: rgb(43, 5, 5);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+img{
+    max-width: 1500px;
+    min-width: 300px;
+    width: 50%;
+   margin: auto;
+   
+}
+marquee {
+    color: black;
+}
+
+aside .dife{
+    text-align: center;
+}
+strong.alone {
+    color: red;
+}

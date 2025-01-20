@@ -1,0 +1,129 @@
+as cores sao formadas com vermelho(red),verde(green) azul (buel), 
+usa a sigla (RGB)
+
+Armonia de cores css
+-circulo cromatico
+---simetrica
+cores primarias 
+-amarelo, vermelho e auzul-
+
+cores secundarias 
+-laranja, violeta e verde
+
+cores tercearias 
+sao misturas das cores primarias e secundarias 
+amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado e azul-esverdeado.
+
+distinção visual 
+cores do lado esquerdo sao cores frias e as do lado direito sao as cores quentes.
+
+classificações buscando armonia
+escolha de paletas de cores-tem de 3 a quantro cores
+cores complementares
+-sao aquelas cores que tem mas contraste entre se.
+
+cores nalogas
+-cores que nao tem contraste entre elas , mas sao perceptiveis
+
+
+cores analogas relacionadas
+-cores similares mas com contraste
+
+cores intercaladas 
+-cores com contraste ( cores intercaladas )
+
+
+cores triadricas 
+-cores separadas por 3 cores 
+
+cores em quadrado
+⬜ cores separadas por duas a duas cores, ate formar um quadrado
+
+cores tetradicas 
+⬛ fromar um retangulo
+
+ monocromia
+trabalha com uma cor e altera a luminusidade e saturacao
+
+#adobe color
+#paletton
+ 
+
+projeto com estilio
+
+@charset "UTF-8";
+
+
+
+
+
+
+
+tipografia-parte 1
+tipografia surgiu no seculo 15 quando surgiu a emprensa.
+na idade media!
+monje (manuese) copistas se expecializavao em copiar livros 
+em 1450-johannes gunterberg (pai da impreensa) foi o invetor de "prença ma pratiecanica de tipos moveis"
+ dai ouve a necessidade de melhorar a pratica dai que surgiu a "tipografica",
+tipografia vem de duas palavars gregas typos (que significa imprensao"colocar algo no papel") e grafia (que significa escrita)
+tipografia e o estudo de como escrever no papel!!
+
+escrever com sentimentos, emoção e com paixao!
+
+Anatomia dos tipos.
+
+Parte 2
+anatomia dos tipos
+intes metricos
+
+times new roma- romana
+
+medidas -letra x e muito importante.
+altura das maiscula
+altura x
+ascendente (vasamento para cima) e descendentes (vasamento para baixo)
+altura total-corpo
+
+⬜ anatomicos geometricos
+prolongamentos das fontes chama-se serifa
+importancia das serifas- ela cria uma linha imaginaria para facilitar a leitura.
+
+glifo é uma letra ou caracter
+conjunto de glisos chama-se fonte
+
+categoria de fontes
+fontes serifadas
+fontes sans-serif
+fontes monoespaçadas 
+fontes escripitada-sima a caligrafia humana
+fontes de esplei-nao se preocupa em obedecer as regras anatomicas 
+
+Familias de fontes
+"safe conbinations"
+
+
+
+⛶  tamanha das fontes e suas medidas
+seguir a W3C-
+fonte size usa-se o px e em.
+  peso, estilo e shorthand font
+
+peso
+peso da fonte( font-wight)-lighter, norma, bold bolder
+
+fonte-styler-(negrito e italico)
+texte-decoration-(sublinhado) 
+
+shorthend font (font styler, font-weight, font-size, font-fameliy
+
+
+
+
+
+
+
+
+
+
+
+
